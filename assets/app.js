@@ -3,6 +3,7 @@ function randomInt(min, max) {
 }
 
 const quotes = [
+    "Wood fired pizza? What will pizza do now?",
     "Memento Mori,<br />Unus Annus",
     "I'm fluent in the following languages:<br />- Dutch<br />- English<br />- Sarcasm",
     "Longpolling the smart blockchain cloud using artificial intelligence since 2022!",
